@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+sklearn
+spotipy
+joblib
+logging
